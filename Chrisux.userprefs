@@ -1,0 +1,10 @@
+﻿<Properties StartupConfiguration="{CA69194F-CA9E-4357-AB9E-B708EF4A2299}|Default">
+  <MonoDevelop.Ide.ItemProperties.Chrisux PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
